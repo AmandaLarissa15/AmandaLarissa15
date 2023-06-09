@@ -1,7 +1,9 @@
-BOAS VINDAS AO MEU PERFIL
+**BOAS VINDAS AO MEU PERFIL 
 
-Meu nome e´Amanda
+**Meu nome é Amanda
 
-Estou estudando na Alura 
+_Estou estudando na Alura 
+_Estou me desenvolvendo na linguagem JavaScript 
+_Utilizo esse para minha organização nos projetos
 
 ![](https://tenor.com/bWFXx.gif)
