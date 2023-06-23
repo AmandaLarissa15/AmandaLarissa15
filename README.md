@@ -1,4 +1,4 @@
-**BOAS VINDAS AO MEU PERFIL
+###BOAS VINDAS AO MEU PERFIL🐦
 
 **Meu nome é Amanda
 
@@ -10,4 +10,4 @@ _Utilizo essa ferramenta
 lpara minha organização nos projetos
 
 
-![](https://tenor.com/bWFXx.gif)
+
