@@ -6,8 +6,8 @@ _Estou estudando na Alura
 
 _Estou me desenvolvendo na linguagem JavaScript
 
-_Utilizo essa ferramenta
-lpara minha organização nos projetos
+_Utilizo essa ferramenta para minha organização nos projetos.
 
 
 
+![](https://tenor.com/bWFXx.gif)
