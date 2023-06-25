@@ -1,13 +1,12 @@
-###BOAS VINDAS AO MEU PERFIL🐦
+### BOAS VINDAS AO MEU PERFIL 
 
-**Meu nome é Amanda
+MEU NOME E AMANDA
 
-_Estou estudando na Alura 
+ - Estou estudando na Alura 
 
-_Estou me desenvolvendo na linguagem JavaScript
+- Estou me desenvolvendo na linguagem JavaScript
 
-_Utilizo essa ferramenta para minha organização nos projetos.
+- Utilizo essa ferramenta para minha organização nos projetos.
 
 
-
-![](https://tenor.com/bWFXx.gif)
+![](https://tenor.com/pt-BR/view/peanuts-gif-22777351)
