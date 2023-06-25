@@ -8,5 +8,6 @@ MEU NOME E AMANDA
 
 - Utilizo essa ferramenta para minha organização nos projetos
 
+** às vezes o que você precisa é confiar em VOCÊ.💝**
 
 ![ ](https://tenor.com/pt-BR/view/peanuts-gif-22777351)
