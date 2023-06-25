@@ -6,7 +6,7 @@ MEU NOME E AMANDA
 
 - Estou me desenvolvendo na linguagem JavaScript
 
-- Utilizo essa ferramenta para minha organização nos projetos.
+- Utilizo essa ferramenta para minha organização nos projetos
 
 
-![](https://pin.it/7k1x4K7)
+![ ](https://tenor.com/view/naruto-gif)
