@@ -9,4 +9,4 @@ MEU NOME E AMANDA
 - Utilizo essa ferramenta para minha organização nos projetos
 
 
-![ ](https://tenor.com/view/naruto-gif)
+![ ](https://tenor.com/pt-BR/view/peanuts-gif-22777351)
